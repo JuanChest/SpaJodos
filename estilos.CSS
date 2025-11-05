@@ -209,7 +209,7 @@ body {
 }
 
 /* Estilos para suscripciones */
-#subscripciones {
+#suscripciones {
     background-color: #F2F6F6;
     padding: 70px 0;
     display: flex;
@@ -217,14 +217,14 @@ body {
     align-items: center;
 }
 
-#subscripciones h2 {
+#suscripciones h2 {
     font-family: 'Inter', sans-serif;
     font-weight: 600;
     font-size: 32px;
     color: #000000;
 }
 
-#subscripciones .planes {
+#suscripciones .planes {
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -233,7 +233,7 @@ body {
     max-width: 770px;
 }
 
-#subscripciones article {
+#suscripciones article {
     width: 255px;
     text-align: center;
     display: flex;
@@ -253,12 +253,12 @@ body {
     align-items: center;
 }
 
-#subscripciones img {
+#suscripciones img {
     object-fit: cover; 
 }
 
 
-#subscripciones button {
+#suscripciones button {
     background-color: #A3A656;
     color: #ffffff;
     border: none;
@@ -272,11 +272,11 @@ body {
     white-space: nowrap;
 }
 
-#subscripciones button:hover {
+#suscripciones button:hover {
     background-color: #384001;
 }
 
-#subscripciones ul {
+#suscripciones ul {
     list-style: disc;
     text-align: left;
     font-size: 16px;
@@ -286,7 +286,7 @@ body {
     color: #000;
 }
 
-#subscripciones ul li {
+#suscripciones ul li {
     margin-bottom: 8px; 
 }
 
